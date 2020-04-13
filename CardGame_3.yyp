@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "4398406c-3a58-4153-b8a4-348e5d1ed87c",
+            "Value": {
+                "id": "688d0fd9-8e75-434d-a307-4c9793368cc2",
+                "resourcePath": "objects\/obj_ui_manager\/obj_ui_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "46859555-0093-4b2f-b0b3-5ef406bc5d9f",
             "Value": {
                 "id": "93edeb2b-2e32-4a06-b09b-dd0b0dcfc22e",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "51247b07-7286-4738-aa34-644c99048150",
+            "Value": {
+                "id": "424c7d8f-b27e-4dd1-9dd3-df753a097ee5",
+                "resourcePath": "objects\/obj_button\/obj_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "52c996dd-e078-4dc3-88d6-0265dcd8fe7a",
             "Value": {
                 "id": "eafda7fd-cec4-494f-a7ce-bbb587c60d83",
@@ -127,11 +143,11 @@
             }
         },
         {
-            "Key": "670964d0-0fac-4307-a7c1-c0d6e2deef8f",
+            "Key": "6117c5c4-9215-45f3-910d-712d236babf2",
             "Value": {
-                "id": "941c1f8a-d55c-4512-93be-17531a4aca4a",
-                "resourcePath": "sprites\/spr_hello\/spr_hello.yy",
-                "resourceType": "GMSprite"
+                "id": "d7973118-669e-46eb-b225-a64c3e328cbc",
+                "resourcePath": "rooms\/room_start\/room_start.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -244,6 +260,14 @@
                 "id": "04834305-7141-4136-bd5b-e1ca73b95cee",
                 "resourcePath": "options\/amazonfire\/options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a684c2e3-75e1-4851-95c5-beb7b2d3b34c",
+            "Value": {
+                "id": "0efcae9b-9705-4ce2-abed-f83235f8d409",
+                "resourcePath": "sprites\/spr_button\/spr_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
